@@ -9,7 +9,8 @@ head(test)
 ############################################################################################
 ui <- fluidPage(
   theme = bs_theme(version = 5, bootswatch = "minty"), # shiny theme of the page
-  titlePanel("PhosMag DB"),
+  titlePanel("PhosMag",
+  windowTitle = "PhosMag"),
   
   sidebarLayout(
     sidebarPanel(
