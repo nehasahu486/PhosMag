@@ -14,7 +14,7 @@ Data is derived from [Cruz-Mireles et al. 2023, *Cell*](https://doi.org/10.1016/
 
 You can access PhosMag without any local installation via the hosted Shinylive interface:
 
-**[Launch PhosMag](https://nehasahu486.github.io/PhosMag/)
+👉[Launch PhosMag](https://nehasahu486.github.io/PhosMag/)
 
 No setup required. Simply open the link in your browser to get started.
 
