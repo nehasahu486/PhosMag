@@ -1,6 +1,6 @@
 # PhosMag
 
-PhosMag (**Phos**phoproteomics in _**Mag**naporthe_) is a test app running via R Shinylive environment. It allows visualization and download of quantitative phosphopeptide abundance data generated during early appressorium development in *Magnaporthe oryzae*.
+PhosMag (**Phos**phoproteomics in _**Mag**naporthe_) is a part of MagnaGenes v.2.0. We are running this as a test app via the R ShinyLive environment. It allows visualization and download of quantitative phosphopeptide abundance data generated during early appressorium development in *Magnaporthe oryzae*.
 
 ---
 
